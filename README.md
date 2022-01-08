@@ -47,7 +47,6 @@ Telegram bot to stream videos in telegram voicechat for both groups and channels
 
 
 ## Deploy to Heroku
-
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://git.heroku.com/morning-bastion-82046.git
 
 ## Deploy to VPS

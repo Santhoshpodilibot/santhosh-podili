@@ -78,5 +78,7 @@ py
 - Automatic restart even if heroku restarts. (Configurable)
 - Support exporting and importing playlist.
 
-https://img.shields.io/badge/Telegram-Group-blue.svg?logo=https://t.me/newsstreamer
 
+.. image:: https://img.shields.io/badge/Telegram-Group-blue.svg?logo=telegram
+   :target: https://t.me/newsstreamer
+   :alt: Telegram Group

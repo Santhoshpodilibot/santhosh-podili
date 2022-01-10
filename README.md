@@ -52,7 +52,7 @@ Hi
 ## Deploy to VPS
 
 ```sh
-git clone  https://git.heroku.com/morning-bastion-82046.git
+git clone  https://github.com/santhu874/AlbyVideoPlayer1.git
 cd santhuvideoplayer
 pip3 install -r requirements.txt
 # <Create Variables appropriately (.env [optional])>

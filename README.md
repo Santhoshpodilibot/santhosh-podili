@@ -59,8 +59,8 @@ SESSION_STRING : Generate From here [![GenerateStringName](https://img.shields.i
 
 ## Recommended Optional Vars
 
-1. `DATABASE_URI`: MongoDB database Url, get from [mongodb](https://cloud.mongodb.com). This is an optional var, but it is recomonded to use this to experiance the full features.
-2. `HEROKU_API_KEY`: Your heroku api key. Get one from [here](https://dashboard.heroku.com/account/applications/authorizations/new)
+1. `DATABASE_URI`: :<a href="https://cloud.mongodb.com"><img src="https://img.shields.io/badge/Join-MONGODB%20URL-sparkil.svg?logo=Mongodb"></a>
+2. `HEROKU_API_KEY`:  :<a href="https://dashboard.heroku.com/account/applications/authorizations/new"><img src="https://img.shields.io/badge/Click-HEROKU%20APIKEY-green.svg?logo=Heroku"></a>
 3. `HEROKU_APP_NAME`: Your heroku apps name.
 4. `FILTERS`: Filter the search for channel play. Channel play means you can play all the files in a purticular channel using /cplay command. Current filters are `video document` . For searching audio files use `video document audio` . for video only search , use `video` and so on.
 

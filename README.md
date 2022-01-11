@@ -27,7 +27,7 @@
 
 𝚃𝙰𝙺𝙴 𝚂𝚃𝚁𝙸𝙽𝙶 𝙵𝚁𝙾𝙼 𝙷𝙴𝚁𝙴 - 
 
-SESSION_STRING : Generate From here [![GenerateStringName](https://img.shields.io/badge/repl.it-generateStringName-bluegreen)](https://replit.com/@ALBINPRAVEEN1/getStringName)
+SESSION_STRING : Generate From here [![GenerateStringName](https://img.shields.io/badge/santhosh-generateStringName-blue](https://replit.com/@ALBINPRAVEEN1/getStringName)
     
 -------------------------------------------------
 ## YOUTUBE SUPPORT AND WHATSAPP SUPPORT

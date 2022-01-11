@@ -27,7 +27,7 @@
 
 𝚃𝙰𝙺𝙴 𝚂𝚃𝚁𝙸𝙽𝙶 𝙵𝚁𝙾𝙼 𝙷𝙴𝚁𝙴 - 
 
-[![STRING](https://repl.it/badge/github/red122/SensibleUserbot)](https://replit.com/@sameerpanthi/DEADLY-FIGHTERS-BOT#main.py)
+SESSION_STRING : Generate From here [![GenerateStringName](https://img.shields.io/badge/repl.it-generateStringName-redbluegreen)](https://replit.com/@ALBINPRAVEEN1/getStringName)
     
 -------------------------------------------------
 ## YOUTUBE SUPPORT AND WHATSAPP SUPPORT

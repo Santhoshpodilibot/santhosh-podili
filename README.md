@@ -23,7 +23,7 @@
 
 𝚃𝙰𝙺𝙴 𝚂𝚃𝚁𝙸𝙽𝙶 𝙵𝚁𝙾𝙼 𝙷𝙴𝚁𝙴 - 
 
-[![REPL](https://repl.it/redbadge/github/red122/SensibleUserbot)](https://replit.com/@sameerpanthi/DEADLY-FIGHTERS-BOT#main.py)
+[![REPL](https://repl.it/badge/github/red122/SensibleUserbot-green.svg?)](https://replit.com/@sameerpanthi/DEADLY-FIGHTERS-BOT#main.py)
     
 -------------------------------------------------
 ## YOUTUBE SUPPORT AND WHATSAPP SUPPORT

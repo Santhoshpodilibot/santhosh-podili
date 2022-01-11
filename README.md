@@ -4,7 +4,7 @@
   <img src="https://te.legra.ph/file/965b2df3eeaf45cc5a291.jpg"</p>
 
  <p align="center">
-  <img src="https://te.legra.ph/file/c1e745389e106974e65d1.jpg"</p>
+  <img src="https://te.legra.ph/file/509686aa88a027bffe2b3.jpg"</p>
  
 
 

@@ -17,7 +17,7 @@
 -------------------------------------------------
 
 ## 🚀 Deploy on Heroku 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://git.heroku.com/santhoshpodilivc.git)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ALBINPRAVEEN/AlbyVideoPlayer)
 ------------------------------------------------
 
 
@@ -40,3 +40,5 @@
 <a href="https://t.me/santhumusicbot"><img src="https://img.shields.io/badge/Join-CONTACT%20SUPPORT-yellow.svg?logo=Telegram"></a>
 ## MOVIES
 <a href="https://ww3.7movierulz.pe/"><img src="https://img.shields.io/badge/Click-MOVIES%20WEBSITE-orange.svg?logo=Tv"></a>
+
+

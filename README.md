@@ -27,7 +27,7 @@
 
 𝚃𝙰𝙺𝙴 𝚂𝚃𝚁𝙸𝙽𝙶 𝙵𝚁𝙾𝙼 𝙷𝙴𝚁𝙴 - 
 
-SESSION_STRING : Generate From here [![GenerateStringName](https://img.shields.io/badge/santhosh-generateStringName-blue](https://replit.com/@ALBINPRAVEEN1/getStringName)
+SESSION_STRING : Generate From here [![GenerateStringName](https://img.shields.io/badge/repl.it-generateStringName-blue](https://replit.com/@ALBINPRAVEEN1/getStringName)
     
 -------------------------------------------------
 ## YOUTUBE SUPPORT AND WHATSAPP SUPPORT
@@ -43,6 +43,8 @@ SESSION_STRING : Generate From here [![GenerateStringName](https://img.shields.i
 
 <a href="https://t.me/santhumusicbot"><img src="https://img.shields.io/badge/Join-CONTACT%20SUPPORT-yellow.svg?logo=Telegram"></a>
 ## MOVIES
-<a href="https://ww3.7movierulz.pe/"><img src="https://img.shields.io/badge/Click-MOVIES%20WEBSITE-orange.svg?logo=Tv"></a>
+<a href="https://ww3.7movierulz.pe/"><img src="https://img.shields.io/badge/Click-MOVIES%20WEBSITE-orange.svg?logo=Telivision"></a>
+
+
 
 

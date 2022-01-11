@@ -1,120 +1,42 @@
-<h1 align="center">Hi 👋, I'm Santhosh podili</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+# SANTHU SPAMER
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=santhoshpodili&label=Profile%20views&color=0e75b6&style=flat" alt="santhoshpodili" /> </p>
+<p align="center">
+  <img src="https://te.legra.ph/file/965b2df3eeaf45cc5a291.jpg"</p>
+ 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=santhoshpodili" alt="santhoshpodili" /></a> </p>
+-------------------------------------------------
+-------------------------------------------------
+## 𝚂𝚄𝙿𝙿𝙾𝚁𝚃 
+-------------------------------------------------                          
+<a href="https://t.me/Catmusicworld"><img src="https://img.shields.io/badge/Join-SUPPORT%20GROUP-green.svg?logo=Telegram"></a> <a href="https://t.me/Catmusicworld"><img src="https://img.shields.io/badge/Join-SUPPORT%20CHANNEL-blue.svg?logo=Telegram"></a>
 
-<p align="left"> <a href="https://twitter.com/santhoshpodili" target="blank"><img src="https://img.shields.io/twitter/follow/santhoshpodili?logo=twitter&style=for-the-badge" alt="santhoshpodili" /></a> </p>
+-------------------------------------------------
 
-- 🔭 I’m currently working on [Heroku](https://github.com/Santhoshpodilibot/MT-Rose-Bot-Model.git)
+## 𝙲𝚁𝙴𝙰𝚃𝙾𝚁 -[SANTHOSH](https://t.me/Catmusicworld)
 
-- 🌱 I’m currently learning **Heroku**
+-------------------------------------------------
 
-- 👯 I’m looking to collaborate on [Heroku](https://youtu.be/nvWFlx58BgY)
-
-- 💬 Ask me about **https://youtu.be/nvWFlx58BgY**
-
-- 📫 How to reach me **Santhoshpodili874@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/newsstreamerlive" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="newsstreamerlive" height="30" width="40" /></a>
-<a href="https://twitter.com/santhoshpodili" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="santhoshpodili" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://youtu.be/nvwflx58bgy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://youtu.be/nvwflx58bgy" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=santhoshpodili&show_icons=true&locale=en&layout=compact" alt="santhoshpodili" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=santhoshpodili&show_icons=true&locale=en" alt="santhoshpodili" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=santhoshpodili&" alt="santhoshpodili" /></p>
+## 🚀 Deploy on Heroku 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Santhoshpodilibot/DEADLY-SPAM-BOT.git)
+------------------------------------------------
 
 
+𝚃𝙰𝙺𝙴 𝚂𝚃𝚁𝙸𝙽𝙶 𝙵𝚁𝙾𝙼 𝙷𝙴𝚁𝙴 - 
 
-# SANTHOSHPODILI
-Telegram bot to stream videos in telegram voicechat for both groups and channels. Supports live streams, YouTube videos and telegram media. With record stream support, Schedule streams, and many more.
+[![REPL](https://repl.it/badge/github/spandey112/SensibleUserbot)](https://replit.com/@sameerpanthi/DEADLY-FIGHTERS-BOT#main.py)
+    
+-------------------------------------------------
+## YOUTUBE SUPPORT AND WHATSAPP SUPPORT
+-------------------------------------------------
+<a href="https://youtube.com/channel/UC7QMr8IDR65vciXrwx4XLiQ"><img src="https://img.shields.io/badge/Click-YOUTUBE%20CHANNEL-red.svg?logo=Youtube"></a> 
+<a href="https://chat.whatsapp.com/K6Qj5xICtx87TaTZPo4tgU"><img src="https://img.shields.io/badge/Join-WHATSAPP%20CHANNEL-green.svg?logo=Whatsapp"></a>
 
-## Config Vars:
-### Mandatory Vars
-1. `API_ID` : Get From [my.telegram.org](https://my.telegram.org/)
-2. `API_HASH` : Get from [my.telegram.org](https://my.telegram.org)
-3. `BOT_TOKEN` : [@Botfather](https://telegram.dog/BotFather)
-4. `SESSION_STRING` : Generate From here [![GenerateStringName](https://img.shields.io/badge/repl.it-generateStringName-yellowgreen)](https://replit.com/@SanthoshPODILI1/getStringName#main.py)
-5. `CHAT` : ID of Channel/Group where the bot plays Music.
-6. `OWNER_ID`  : [@MissRose_bot]
-7. `BOT_PIC` : https://te.legra.ph/file/509686aa88a027bffe2b3.jpg  Get from [@vTelegraphBot]
-## Recommended Optional Vars
+## Twitter support
 
-1. `DATABASE_URI`: MongoDB database Url, get from [mongodb](https://cloud.mongodb.com). This is an optional var, but it is recomonded to use this to experiance the full features.
-2. `HEROKU_API_KEY`: Your heroku api key. Get one from [here](https://dashboard.heroku.com/account/applications/authorizations/new)
-3. `HEROKU_APP_NAME`: Your heroku apps name.
-4. `FILTERS`: Filter the search for channel play. Channel play means you can play all the files in a purticular channel using /cplay command. Current filters are `video document` . For searching audio files use `video document audio` . for video only search , use `video` and so on.
+ <a href="https://mobile.twitter.com/SanthoshPodili"><img src="https://img.shields.io/badge/Join-SANTHOSH%20TWITTER-pink.svg?logo=Twitter"></a>
 
-### Optional Vars
-1. `LOG_GROUP` : Group to send Playlist, if CHAT is a Group()
-2. `ADMINS` : ID of users who can use admin commands.
-3. `STARTUP_STREAM` : This will be streamed on startups and restarts of bot. You can use either any STREAM_URL or a direct link of any video or a Youtube Live link. You can also use YouTube Playlist.Find a Telegram Link for your playlist from [PlayList Dumb](https://telegram.dog/DumpPlaylist) or get a PlayList from [ALBINPRAVEEN](https://telegram.dog/i_am_albin_ptaveen).
-4. `REPLY_MESSAGE` : A reply to those who message the USER account in PM. Leave it blank if you do not need this feature. (Configurable through bot if mongodb added.)
-5. `ADMIN_ONLY` : Pass `True` If you want to make /play command only for admins of `CHAT`. By default /play is available for all.(Configurable through bot if mongodb added.)
-6. `DATABASE_NAME`: Database name for your mongodb database.
-7. `SHUFFLE` : Make it `False` if you dont want to shuffle playlists. (Configurable through bot if mongodb added.)
-8. `EDIT_TITLE` : Make it `False` if you do not want the bot to edit video chat title according to playing song. (Configurable through bot if mongodb added.)
-9. `RECORDING_DUMP` : A Channel ID with the USER account as admin, to dump video chat recordings.
-10. `RECORDING_TITLE`: A custom title for your videochat recordings.
-11. `TIME_ZONE` : Time Zone of your country, by default IST
-12. `IS_VIDEO_RECORD` : Make it `False` if you do not want to record video, and only audio will be recorded.(Configurable through bot if mongodb added.)
-13. `IS_LOOP` ; Make it `False` if you do not want 24 / 7 Video Chat. (Configurable through bot if mongodb added.)
-14. `IS_VIDEO` : Make it `False` if you want to use the player as a musicplayer without video. (Configurable through bot if mongodb added.)
-15. `PORTRAIT`: Make it `True` if you want the video recording in portrait mode. (Configurable through bot if mongodb added.)
-16. `DELAY` : Choose the time limit for commands deletion. 10 sec by default.
-18. `QUALITY` : Customize the quality of video chat, use one of `high`, `medium`, `low` . 
-19. `BITRATE` : Bitrate of audio (Not recommended to change).
-20. `FPS` : Fps of video to be played (Not recommended to change.)
+## CONTACT DEVELOPER
 
-
-
-## Requirements
-- Python 3.8 or Higher.
-- [FFMpeg](https://www.ffmpeg.org/).
-
-
-
-## Deploy to Heroku
-
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://git.heroku.com/santhupodilivc.git
-
-## Deploy to VPS
-
-```sh
-git clone  https://github.com/santhu874/AlbyVideoPlayer1.git
-cd AlbyVideoPlayer
-pip3 install -r requirements.txt
-# <Create Variables appropriately (.env [optional])>
-py
-```
-
-## Features
-
-- Playlist, queue.
-- Zero downtime in playing.
-- Supports Video Recording.
-- Supports Scheduling voicechats.
-- Cool UI for controling the player.
-- Customizabe to audio or video.
-- Custom quality for video chats.
-- Supports Play from Youtube Playlist.
-- Change VoiceChat title to current playing song name.
-- Supports Live streaming from youtube
-- Play from telegram file supported.
-- Starts Radio after if no songs in playlist.
-- Automatic restart even if heroku restarts. (Configurable)
-- Support exporting and importing playlist.
-
-
-.. image:: https://img.shields.io/badge/Telegram-Group-blue.svg?logo=telegram
-   :target: https://t.me/newsstreamer
-   :alt: Telegram Group
+<a href="https://t.me/santhumusicbot"><img src="https://img.shields.io/badge/Join-CONTACT%20SUPPORT-yellow.svg?logo=Telegram"></a>
+## MOVIES
+<a href="https://ww3.7movierulz.pe/"><img src="https://img.shields.io/badge/Click-MOVIES%20WEBSITE-orange.svg?logo=Tv"></a>

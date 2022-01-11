@@ -49,7 +49,7 @@ SESSION_STRING : Generate From here [![GenerateStringName](https://img.shields.i
 ### Mandatory Vars
 1. `API_ID` : Get From [my.telegram.org](https://my.telegram.org/)
 2. `API_HASH` : Get from [my.telegram.org](https://my.telegram.org)
-3. `BOT_TOKEN` :<a href="https://t.me/BotFather">="https://img.shields.io/badge/Click-BOT%20FATHER-yellowgreen.svg?logo=Botfather"></a>
+3. `BOT_TOKEN` :<a href="https://t.me/BotFather"><img src="https://img.shields.io/badge/Click-BOT%20FATHER-yellowgreen.svg?logo=Botfather"></a>
 5. `CHAT` : ID of Channel/Group where the bot plays Music.
 
 

@@ -104,4 +104,4 @@ SESSION_STRING : Generate From here [![GenerateStringName](https://img.shields.i
 
 
 ## GITHUB
-<a href="https://github.com/Santhoshpodilibot/santhosh-podili"><img src="https://img.shields.io/badge/Join-DEV%20GITHUB-purpleorange.svg?logo=Github"></a>
+<a href="https://github.com/Santhoshpodilibot/santhosh-podili"><img src="https://img.shields.io/badge/Click-DEV%20GITHUB-orange.svg?logo=Github"></

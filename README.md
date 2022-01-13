@@ -35,11 +35,11 @@ SESSION_STRING : Generate From here [![GenerateStringName](https://img.shields.i
 
 ## Twitter support
 
- <a href="https://mobile.twitter.com/SanthoshPodili"><img src="https://img.shields.io/badge/Join-SANTHOSH%20TWITTER-pink.svg?logo=Twitter"></a>
+ <a href="https://mobile.twitter.com/SanthoshPodili"><img src="https://img.shields.io/badge/Click-SANTHOSH%20TWITTER-pink.svg?logo=Twitter"></a>
 
 ## CONTACT DEVELOPER
 
-<a href="https://t.me/santhumusicbot"><img src="https://img.shields.io/badge/Join-CONTACT%20SUPPORT-yellow.svg?logo=Telegram"></a>
+<a href="https://t.me/santhumusicbot"><img src="https://img.shields.io/badge/Click-CONTACT%20SUPPORT-yellow.svg?logo=Telegram"></a>
 ## MOVIES
 <a href="https://ww3.7movierulz.pe/"><img src="https://img.shields.io/badge/Click-MOVIES%20WEBSITE-orange.svg?logo=Telivision"></a>
 
@@ -58,7 +58,7 @@ SESSION_STRING : Generate From here [![GenerateStringName](https://img.shields.i
 
 ## Recommended Optional Vars
 
-1. `DATABASE_URI`: :<a href="https://cloud.mongodb.com"><img src="https://img.shields.io/badge/Join-MONGODB%20URL-sparkil.svg?logo=Mongodb"></a>
+1. `DATABASE_URI`: :<a href="https://cloud.mongodb.com"><img src="https://img.shields.io/badge/Click😃-MONGODB%20URL-sparkil.svg?logo=Mongodb"></a>
 2. `HEROKU_API_KEY`:  :<a href="https://dashboard.heroku.com/account/applications/authorizations/new"><img src="https://img.shields.io/badge/Click-HEROKU%20APIKEY-green.svg?logo=Heroku"></a>
 3. `HEROKU_APP_NAME`: Your heroku apps name.
 4. `FILTERS`: Filter the search for channel play. Channel play means you can play all the files in a purticular channel using /cplay command. Current filters are `video document` . For searching audio files use `video document audio` . for video only search , use `video` and so on.
